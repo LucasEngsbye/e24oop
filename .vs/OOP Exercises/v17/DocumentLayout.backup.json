@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Documents\\GitHub\\e24oop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4E4DE7-E2FD-4FFD-95A1-E17439F9069B}|OOP Exercises\\OOP Exercises.csproj|c:\\users\\lucas\\documents\\github\\e24oop\\oop exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4E4DE7-E2FD-4FFD-95A1-E17439F9069B}|OOP Exercises\\OOP Exercises.csproj|solutionrelative:oop exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4E4DE7-E2FD-4FFD-95A1-E17439F9069B}|OOP Exercises\\OOP Exercises.csproj|c:\\users\\lucas\\documents\\github\\e24oop\\oop exercises\\exercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4E4DE7-E2FD-4FFD-95A1-E17439F9069B}|OOP Exercises\\OOP Exercises.csproj|solutionrelative:oop exercises\\exercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\GitHub\\e24oop\\OOP Exercises\\Program.cs",
+              "RelativeDocumentMoniker": "OOP Exercises\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\GitHub\\e24oop\\OOP Exercises\\Program.cs",
+              "RelativeToolTip": "OOP Exercises\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:31:14.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercises.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\GitHub\\e24oop\\OOP Exercises\\Exercises.cs",
+              "RelativeDocumentMoniker": "OOP Exercises\\Exercises.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\GitHub\\e24oop\\OOP Exercises\\Exercises.cs",
+              "RelativeToolTip": "OOP Exercises\\Exercises.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:31:11.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
